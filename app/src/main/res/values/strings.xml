@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sum of numbers</string>
+    <string name="enter_numbers">Enter numbers:</string>
+    <string name="calculate">Вычислить</string>
+    <string name="enter_first_number">Введите первое число</string>
+    <string name="enter_second_number">Введите второе число</string>
+    <string name="result">Результат:</string>
+    <string name="error_empty_field">Необходимо заполнить поле</string>
+    <string name="error_number_format">Необходимо ввести число</string>
+</resources>
